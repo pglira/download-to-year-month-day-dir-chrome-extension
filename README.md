@@ -1,2 +1,3 @@
 # download-to-year-month-day-dir-chrome-extension
-Download files to ${DOWNLOAD_DIR}/year-month-day
+
+Chrome extension for downloading files automatically to ``${DOWNLOAD_DIR}/year-month-day``.

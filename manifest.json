@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "download-to-year-month-day-dir",
+    "description": "Download files to ${DOWNLOAD_DIR}/year-month-day",
+    "version": "1.0",
+    "author": "pglira",
+    "permissions": [
+        "downloads"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
